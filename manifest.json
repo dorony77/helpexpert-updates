@@ -1,1 +1,10 @@
-{"latest_period": "2026_06", "url": "", "sha256": ""}
+{
+  "latest_period": "2026_09",
+  "periods": {
+    "2026_09": {
+      "url": "https://raw.githubusercontent.com/dorony77/helpexpert-updates/main/periods/2026_09.json",
+      "sha256": "d21562da0cc2810d59766fc44d258cb8885256a3f6dbfbc2b5095d0f1a83fbbb",
+      "brands": 85
+    }
+  }
+}
