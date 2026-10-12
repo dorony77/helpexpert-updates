@@ -1,9 +1,14 @@
 {
-  "latest_period": "2026-8",
+  "latest_period": "2026-9",
   "periods": {
     "2026-8": {
       "url": "https://raw.githubusercontent.com/dorony77/helpexpert-updates/main/fedstat_periods/2026_08.json",
       "sha256": "c785c3e8d7a4fc072b178cb790eaf898463c08405e5dece4f7ee7b6574f6d2cb",
+      "regions_count": 85
+    },
+    "2026-9": {
+      "url": "https://raw.githubusercontent.com/dorony77/helpexpert-updates/main/fedstat_periods/2026_09.json",
+      "sha256": "48d3a57820709135b695b44cc4b337cb3a3304be48d91fe05731219120635ad6",
       "regions_count": 85
     }
   }
