@@ -1,7 +1,7 @@
 {
-  "version": "1.0.43",
+  "version": "1.0.44",
   "url": "https://raw.githubusercontent.com/dorony77/helpexpert-updates/main/Helpexpert.exe",
-  "sha256": "ec5abf085dddfc0bb06a32205a2450722fca0c57c261590ecabb5fcd6d09ac30",
-  "signature": "8fd02bc4d2a2b4c8ed50a06211246803fa373a08b2a70cfe6de84cb03fd65577f0a20aaf02d34d092ec00a4597ecbdf34590b74b5b3f869360235fe2d13dca04",
-  "notes": "## 1.0.43 (2026-10-29)\n\n- Parteks: PDF корзины сохраняется в обычном (компьютерном) виде, как на экране, - позиции в одну строку, листов в 2-3 раза меньше."
+  "sha256": "77403ad2f24091e3a3b0d041303e256f940f68876e97e653560bd696147604eb",
+  "signature": "0997c71699a4ef5752fff987e22b0d6b28f4127bffc95487f017f3edcd184e7777db11d249d8b037a3985c47d998eb16c3e3ad2d787a89ade7f688c082aba80f",
+  "notes": "## 1.0.44 (2026-10-29)\n\n- Parteks: PDF корзины действительно сохраняется в компьютерном виде (в 1.0.43 исправление сработало только наполовину) - позиции в одну строку, 3 листа вместо 7-9."
 }
